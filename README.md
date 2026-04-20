@@ -1,8 +1,8 @@
 
 <!--
 **eth-hac-steven/eth-hac-steven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<center> # 👋 Hi, I'm Peter-okolie Tobechukwu Steven
-A Result Driven IT Support Specialist with hands-on enterprise experience delivering first- and second-line helpdesk support in a Windows-based corporate environment. Holds a BSc in Cybersecurity and industry certifications including CompTIA Security+, ISC² CC, and Cisco Junior Cybersecurity Analyst. Proven track record in Active Directory administration, LAN/WAN infrastructure support, hardware troubleshooting, IT asset management, and cybersecurity enforcement. Adept at using ITSM ticketing systems (Freshdesk, Spiceworks), documenting SOPs, and educating end users on security best practices. </center>
+ # 👋 Hi, I'm Peter-okolie Tobechukwu Steven
+A Result Driven IT Support Specialist with hands-on enterprise experience delivering first- and second-line helpdesk support in a Windows-based corporate environment. Holds a BSc in Cybersecurity and industry certifications including CompTIA Security+, ISC² CC, and Cisco Junior Cybersecurity Analyst. Proven track record in Active Directory administration, LAN/WAN infrastructure support, hardware troubleshooting, IT asset management, and cybersecurity enforcement. Adept at using ITSM ticketing systems (Freshdesk, Spiceworks), documenting SOPs, and educating end users on security best practices. 
 
 ---
 
