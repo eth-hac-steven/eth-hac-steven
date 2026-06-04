@@ -8,9 +8,9 @@ A Result Driven IT Support Specialist with hands-on enterprise experience delive
 
 ## 🧑‍💻 About Me
 
-- 🛡️ **An IT support and Defensive Security** is my primary goal — I care about detection,
+- 🛡️ **An IT support and Defensive Security** is my primary goal I care about detection,
   incident response, and building secure systems
-- 🚩 I sharpen my skills through **CTF competitions**, TryHackMe rooms,
+- 🚩 I sharpen my skills through **Homelabs** and  **CTF competitions**, TryHackMe rooms,
   Hack The Box machines, and picoCTF challenges
 - 📖 Continuously learning and documenting everything I know
 
@@ -28,6 +28,7 @@ A Result Driven IT Support Specialist with hands-on enterprise experience delive
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
 ![Isc2 CC](https://img.shields.io/badge/ISC-CC%2B-green?style=for-the-badge&logo=&logoColor=white)
+![tryhackme](https://img.shields.io/badge/)
 
 ---
 *"The best defense is understanding the offense."* 🛡️
