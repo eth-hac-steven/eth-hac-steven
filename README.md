@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Peter-okolie Tobechukwu Steven
 
-A Result-Driven IT Support Specialist with hands-on enterprise experience delivering first- and second-line helpdesk support in a Windows-based corporate environment. I hold a **BSc in Cybersecurity** and am passionate about defensive security, incident response, and building secure systems.
+A Result-Driven L1 SOC Analyst and IT Support Specialist with hands-on enterprise experience delivering first- and second-line helpdesk support and provide standard security baseline in a Windows-based corporate environment. I hold a **BSc in Cybersecurity** and am passionate about defensive security, incident response, and building secure systems.
 
 ---
 
