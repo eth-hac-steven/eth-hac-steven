@@ -4,16 +4,16 @@
 
 # 👋 Hi, I'm Peter-okolie Tobechukwu Steven
 
-A Result-Driven L1 SOC Analyst and IT Support Specialist with hands-on enterprise experience delivering first- and second-line helpdesk support and provide standard security baseline in a Windows-based corporate environment. I hold a **BSc in Cybersecurity** and am passionate about defensive security, incident response, and building secure systems.
+A Result-Driven L1 SOC Analyst and IT Support Specialist with hands-on enterprise experience delivering first and second-line helpdesk support and provide standard security baseline in a Windows-based corporate environment. I hold a **BSc in Cybersecurity** and am passionate about defensive security, incident response, and building secure systems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🛡️ **IT Support & Defensive Security** are my primary focus—I care deeply about detection, incident response, and building secure systems
+- 🛡️ **IT Support & Defensive Security** are my primary focus I care deeply about detection, incident response, and building secure systems
 - 🚩 I sharpen my skills through **Homelabs**, **CTF competitions**, TryHackMe rooms, Hack The Box machines, and picoCTF challenges
 - 📖 Continuously learning and documenting everything I know
-- 🔭 Currently working on the Threatshpere Consulting IT backbone
+- 🔭 Currently working on the Fortify Continuum IT backbone
 - 🌱 Currently learning the ways of the SOC analyst
 - ⚡ Fun fact: I'm a **Type B introvert** 😊
 
@@ -51,7 +51,6 @@ A Result-Driven L1 SOC Analyst and IT Support Specialist with hands-on enterpris
 ### 💼 IT Support & Business
 
 - **[Help-desk-Scenarios](https://github.com/eth-hac-steven/Help-desk-Scenarios)** – Realistic incident response drills and technical support scenarios
-- **[IT-Inventory-Assets-Management](https://github.com/eth-hac-steven/IT-Inventory-Assets-Management)** – Comprehensive system for tracking and managing IT assets and inventory
 - **[Forage-Job-Simulations](https://github.com/eth-hac-steven/Forage-Job-Simulations)** – Real-world work experience simulations from top companies
 
 ---
